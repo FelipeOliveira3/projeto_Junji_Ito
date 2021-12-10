@@ -11,8 +11,8 @@ const Hooks = props => (
         <h3>Junji Ito é um mangaká (escritor de mangás) de 58 anos. É autor de uma série de mangás que revolucionaram o mundo do terror, fugindo dos clichês já manjados por leitores assíduos do gênero.</h3>
         <h3>Suas obras não possuem o objetivo de passar medo aos leitores, mas sim de os expor em situações que geram um extremo desconforto usando a violência extrema, insetos, ou a coisa mais bizarra que você conseguir imaginar. </h3>
         
-        <p> <img scr="junji_ito.jpg"></img> </p>    
-    </div>
+       
+        </div>
 )
 
 export default Hooks
